@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(300,300);
-    background(225);
+    background(225,0,0);
 
     //the "stroke" is the line drawn at the border of all shapes
     //similar to fill(), stroke() sets the color for the border on all shapes draw AFTERWARDS.
